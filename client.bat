@@ -1,0 +1,1 @@
+java -cp classes com.irc.IRCMain -c deepneko kokonani -cs 192.168.1.26 -g

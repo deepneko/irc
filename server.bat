@@ -1,0 +1,1 @@
+java -cp classes com.irc.IRCMain -s -g
